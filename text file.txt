@@ -1,0 +1,14 @@
+A text or markdown file with your analysis on the phenomenons you uncovered from the data.
+
+The data used was the March 2020 CitiBike dataset from the Citi Bike Data website. Reviewing the dataset, I have 
+noticed that the average time spent but customers is higher than our subscribers who pay a subscription. I was 
+wondering, does that mean we have more customers than subscribers? So I have made a visualization and noticed that 
+even though customers use the bikes longer, there are more subscribers significantly. I even broke down the genders 
+of the customers and subscribers and noticed that in both categories, females used the bikes longer but there are 
+more males in both categories. 
+
+Then I wonder what is the age range that are using the bikes. I have noticed that the customers range were mostly
+in the 23 to 33 range while the subscribers were a bit higher, ranging from 24 to 40 age group. 
+
+So in conclusion, even though we have customers who are using the bikes longer, we have significantly larger amount 
+of subscribers versus one time use customers.  
